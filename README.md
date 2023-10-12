@@ -1,4 +1,4 @@
-# Trimmr_AI
+# [Trimmr_AI](https://trimmrai.firebaseapp.com/)
 ## Article Summariser using OpenAI GPT-4
 
 ### Description
